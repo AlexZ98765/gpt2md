@@ -157,3 +157,9 @@ pip install PyInstaller
 pip install --upgrade PyInstaller pyinstaller-hooks-contrib
 pyinstaller --windowed --onefile --name "ChatGPT to Obsidian" main.py --icon=ChatGPT_Obsidian.ico
 ```
+
+* * *
+
+### ❗ Известные проблемы:
+
+* Не распознаёт Холст - рекомендуется потом такое выделить вручную и нажать 'tab'. Ну или отформатировать по вкусу.

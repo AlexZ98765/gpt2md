@@ -69,7 +69,7 @@ request_md_tag = important
 
 [Hard_replacements]
 replacements = 
-	<_module_>:<_module_>
+	<module>:<_module_>
 
 [Keywords]
 words = 
